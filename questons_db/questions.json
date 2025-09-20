@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the names below does not belong to a member of Delta Squad?",
+      "options": ["Hunter", "Boss", "Fixer", "Sev"],
+      "answerIndex": 0
+    },
+    {
+      "id": 2,
+      "text": "Which color of lightsaber does Anakain Skywalder primarily use? (Prior to becoming Darth Vader)",
+      "options": ["Green", "Blue", "Red", "Purple"],
+      "answerIndex": 1
+    },
+    {
+      "id": 3,
+      "text": "What is the name of the Skywalker family droid",
+      "options": ["Dalek", "R2-D2", "Beemo", "Bob Ross"],
+      "answerIndex": 1
+    }
+  ]
+}
